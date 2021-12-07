@@ -1,0 +1,68 @@
+.button {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: rgb(250, 244, 244) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+}
+.button1 {
+    background-color:green;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: rgb(250, 244, 244) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+}
+.button2 {
+    background-color:rgb(216, 21, 167);
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: rgb(250, 244, 244) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+}
+.button3 {
+    background-color:red;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: rgb(250, 244, 244) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+}
+.icon{
+    background-color: powderblue;
+    text-align: center;
+    height: 70px;
+    width: 700px;
+    border-radius: 8px;
+    border: rgb(203, 218, 5) solid 5px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color:yellow;
+    height: 70px;
+    padding-top: 15px;
+
+}
